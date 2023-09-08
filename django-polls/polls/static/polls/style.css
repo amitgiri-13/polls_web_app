@@ -1,0 +1,12 @@
+li a {
+    font-size:xx-large;
+    font: oblique;
+    color : rgba(0, 0, 0, 0.888);
+}
+
+body {
+    background: beige  url('images/bgimg.jpg');
+}
+form {
+   animation-timeline:unset;
+}
